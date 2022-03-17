@@ -1,7 +1,7 @@
 # Covid19InSantaCatarina  
 
 ## Source 
-Santa Catarina's open data: http://dados.sc.gov.br/dataset/covid-19-dados-anonimizados-de-casos-confirmados/resource/76d6dfe8-7fe9-45c1-95f4-cab971803d49)
+Santa Catarina's open data: http://dados.sc.gov.br/dataset/covid-19-dados-anonimizados-de-casos-confirmados/resource/76d6dfe8-7fe9-45c1-95f4-cab971803d49
 
 ### Description
 
